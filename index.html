@@ -1,8 +1,24 @@
+<!DOCTYPE html>
 <html>
 <head>
-<meta http-equiv="refresh" content="0;url=https://ropensci.org/packages/">
-<script language="javascript">
-    window.location.href = "https://ropensci.org/packages/"
-</script>
+<meta charset="UTF-8">
+<title>Directory Index</title>
+
+<style>
+body {
+	font-family: monospace; font-size: 14px;
+}
+ul {
+	list-style-type: none;
+}
+</style>
+
+<script src="octokit-rest.min.js"></script>
+<script src="script.js"></script>
 </head>
+
+<body>
+<h3>Directory Index</h3>
+<ul id="repolist"></ul>
+</body>
 </html>
