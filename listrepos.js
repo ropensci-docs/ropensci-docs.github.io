@@ -18,7 +18,7 @@ function getRepos(page) {
 			// try to ignore empty repos
 			var created_at = Date.parse(repo.created_at);
 			var pushed_at = Date.parse(repo.pushed_at);
-			if(Math.abs(pushed_at - created_at) < 200) {
+			if(Math.abs(pushed_at - created_at) <= 1000) {
 				console.log("Repository " + name + " looks unpushed to.");
 				return;
 			}
