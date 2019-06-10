@@ -2,11 +2,9 @@ const octokit = new Octokit();
 const pagemax = 100;
 
 function getRepos(page) {
-	octokit.repos.listForOrg({
-		org : "ropensci-docs",
-		sort : "full_name",
+	octokit.repos.listForUser({
+		username : "ropensci-docs",
 		direction : "asc",
-		type : 'public',
 		per_page : pagemax,
 		page : page,
 	}).then(({ data, headers, status }) => {
