@@ -1,5 +1,6 @@
 const octokit = new Octokit();
 const pagemax = 100;
+const ul = document.createElement('ul');
 
 function getRepos(page) {
 	octokit.repos.listForUser({
@@ -8,7 +9,6 @@ function getRepos(page) {
 		per_page : pagemax,
 		page : page,
 	}).then(({ data, headers, status }) => {
-		var ul = document.createElement('ul');
 		data.map(function(repo){
 			var name = repo.full_name.split("/")[1];
 			if(name === 'ropensci-docs.github.io') return;
