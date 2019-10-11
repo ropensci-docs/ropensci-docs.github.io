@@ -8,7 +8,7 @@ function getRepos(page) {
 		per_page : pagemax,
 		page : page,
 	}).then(({ data, headers, status }) => {
-		var ul = document.getElementById("repolist");
+		var ul = document.createElement('ul');
 		data.map(function(repo){
 			var name = repo.full_name.split("/")[1];
 			if(name === 'ropensci-docs.github.io') return;
@@ -28,6 +28,9 @@ function getRepos(page) {
 			getRepos(page + 1);
 		} else {
 			var n = (page-1) * 100 + data.length;
+			var old = document.getElementById("repolist");
+			old.parentNode.replaceChild(ul, old);
+			ul.id = "repolist"
 			console.log("Fetch complete: " + n + " results");
 		}
 	});
