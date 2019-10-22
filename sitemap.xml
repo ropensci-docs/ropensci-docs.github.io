@@ -256,9 +256,6 @@
     <loc>https://docs.ropensci.org/essurvey/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/etseed/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/europepmc/</loc>
   </url>
   <url>
@@ -443,6 +440,9 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/lawn/</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/lightr/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/lingtypology/</loc>
@@ -1064,9 +1064,6 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/visdat/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/vitae/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/wateRinfo/</loc>
