@@ -232,6 +232,9 @@
     <loc>https://docs.ropensci.org/ecoengine/</loc>
   </url>
   <url>
+    <loc>https://docs.ropensci.org/eia/</loc>
+  </url>
+  <url>
     <loc>https://docs.ropensci.org/elastic/</loc>
   </url>
   <url>
@@ -700,6 +703,9 @@
     <loc>https://docs.ropensci.org/RefManageR/</loc>
   </url>
   <url>
+    <loc>https://docs.ropensci.org/rentrez/</loc>
+  </url>
+  <url>
     <loc>https://docs.ropensci.org/rerddap/</loc>
   </url>
   <url>
@@ -1045,6 +1051,9 @@
     <loc>https://docs.ropensci.org/trufflesniffer/</loc>
   </url>
   <url>
+    <loc>https://docs.ropensci.org/UCSCXenaTools/</loc>
+  </url>
+  <url>
     <loc>https://docs.ropensci.org/umapr/</loc>
   </url>
   <url>
@@ -1085,6 +1094,9 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/wikitaxa/</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/workloopR/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/worrms/</loc>
