@@ -379,9 +379,6 @@
     <loc>https://docs.ropensci.org/helminthR/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/hirsutosa/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/historydata/</loc>
   </url>
   <url>
@@ -862,9 +859,6 @@
     <loc>https://docs.ropensci.org/rtweet/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/rubfuns/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/rusda/</loc>
   </url>
   <url>
@@ -878,9 +872,6 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/rzmq/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/scatrr/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/scientist/</loc>
@@ -1013,9 +1004,6 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/timefuzz/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/timeraster/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/tinkr/</loc>
