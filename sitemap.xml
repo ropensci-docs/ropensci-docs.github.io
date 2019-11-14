@@ -64,6 +64,9 @@
     <loc>https://docs.ropensci.org/biomartr/</loc>
   </url>
   <url>
+    <loc>https://docs.ropensci.org/bittrex/</loc>
+  </url>
+  <url>
     <loc>https://docs.ropensci.org/blogyaml/</loc>
   </url>
   <url>
@@ -179,9 +182,6 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/dappr/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/dashboard/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/datapack/</loc>
@@ -451,9 +451,6 @@
     <loc>https://docs.ropensci.org/lq/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/lumier/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/magick/</loc>
   </url>
   <url>
@@ -560,6 +557,9 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/ozbabynames/</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/ozflights/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/ozroaddeaths/</loc>
