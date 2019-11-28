@@ -37,6 +37,9 @@
     <loc>https://docs.ropensci.org/babette/</loc>
   </url>
   <url>
+    <loc>https://docs.ropensci.org/baRcodeR/</loc>
+  </url>
+  <url>
     <loc>https://docs.ropensci.org/bbox/</loc>
   </url>
   <url>
@@ -532,6 +535,9 @@
     <loc>https://docs.ropensci.org/opencv/</loc>
   </url>
   <url>
+    <loc>https://docs.ropensci.org/opentripplanner/</loc>
+  </url>
+  <url>
     <loc>https://docs.ropensci.org/originr/</loc>
   </url>
   <url>
@@ -572,6 +578,9 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/pdftools/</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/photosearcher/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/phylocomr/</loc>
