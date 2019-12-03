@@ -886,9 +886,6 @@
     <loc>https://docs.ropensci.org/seasl/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/skimr/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/skynet/</loc>
   </url>
   <url>
@@ -1061,6 +1058,9 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/wdman/</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/weathercan/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/webchem/</loc>
