@@ -286,6 +286,9 @@
     <loc>https://docs.ropensci.org/fulltext/</loc>
   </url>
   <url>
+    <loc>https://docs.ropensci.org/genbankr/</loc>
+  </url>
+  <url>
     <loc>https://docs.ropensci.org/gender/</loc>
   </url>
   <url>
@@ -470,6 +473,9 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/MODISTools/</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/MODIStsp/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/monkeylearn/</loc>
@@ -1025,6 +1031,9 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/treebase/</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/treeio/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/treestartr/</loc>
