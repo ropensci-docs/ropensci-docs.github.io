@@ -280,9 +280,6 @@
     <loc>https://docs.ropensci.org/fingertipsR/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/flipper/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/ftp/</loc>
   </url>
   <url>
@@ -793,6 +790,9 @@
     <loc>https://docs.ropensci.org/roadoi/</loc>
   </url>
   <url>
+    <loc>https://docs.ropensci.org/roblog/</loc>
+  </url>
+  <url>
     <loc>https://docs.ropensci.org/robotstxt/</loc>
   </url>
   <url>
@@ -893,6 +893,9 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/simpletextr/</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/skimr/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/skynet/</loc>
