@@ -70,9 +70,6 @@
     <loc>https://docs.ropensci.org/blogyaml/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/bnf/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/bold/</loc>
   </url>
   <url>
@@ -352,9 +349,6 @@
     <loc>https://docs.ropensci.org/grainchanger/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/gramr/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/graphql/</loc>
   </url>
   <url>
@@ -562,9 +556,6 @@
     <loc>https://docs.ropensci.org/ozflights/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/ozroaddeaths/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/packagemetrics/</loc>
   </url>
   <url>
@@ -659,6 +650,9 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/rbraries/</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/rcademy/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/rcites/</loc>
