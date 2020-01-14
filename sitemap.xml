@@ -115,6 +115,9 @@
     <loc>https://docs.ropensci.org/chromer/</loc>
   </url>
   <url>
+    <loc>https://docs.ropensci.org/circle/</loc>
+  </url>
+  <url>
     <loc>https://docs.ropensci.org/citecorp/</loc>
   </url>
   <url>
@@ -703,6 +706,9 @@
     <loc>https://docs.ropensci.org/rerddap/</loc>
   </url>
   <url>
+    <loc>https://docs.ropensci.org/restez/</loc>
+  </url>
+  <url>
     <loc>https://docs.ropensci.org/reuropeana/</loc>
   </url>
   <url>
@@ -949,9 +955,6 @@
     <loc>https://docs.ropensci.org/suppdata/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/syn/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/tabulizer/</loc>
   </url>
   <url>
@@ -1064,6 +1067,9 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/vcr/</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/virtuoso/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/visdat/</loc>
