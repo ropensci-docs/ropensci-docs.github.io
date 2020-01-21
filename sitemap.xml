@@ -151,6 +151,9 @@
     <loc>https://docs.ropensci.org/colorpiler/</loc>
   </url>
   <url>
+    <loc>https://docs.ropensci.org/colpluz/</loc>
+  </url>
+  <url>
     <loc>https://docs.ropensci.org/comtradr/</loc>
   </url>
   <url>
@@ -556,6 +559,15 @@
     <loc>https://docs.ropensci.org/outcomerate/</loc>
   </url>
   <url>
+    <loc>https://docs.ropensci.org/outsider/</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/outsider.base/</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/outsider.devtools/</loc>
+  </url>
+  <url>
     <loc>https://docs.ropensci.org/ozbabynames/</loc>
   </url>
   <url>
@@ -698,6 +710,9 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/RefManageR/</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/refsplitr/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/rentrez/</loc>
