@@ -544,6 +544,9 @@
     <loc>https://docs.ropensci.org/originr/</loc>
   </url>
   <url>
+    <loc>https://docs.ropensci.org/osfr/</loc>
+  </url>
+  <url>
     <loc>https://docs.ropensci.org/osmdata/</loc>
   </url>
   <url>
@@ -686,6 +689,9 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/rdefra/</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/rdflib/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/rdhs/</loc>
@@ -974,6 +980,9 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/taxa/</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/taxadb/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/taxadc/</loc>
