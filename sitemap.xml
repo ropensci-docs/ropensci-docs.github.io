@@ -319,9 +319,6 @@
     <loc>https://docs.ropensci.org/geoops/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/geoparser/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/getCRUCLdata/</loc>
   </url>
   <url>
@@ -476,9 +473,6 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/monkeylearn/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/motifator/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/mregions/</loc>
