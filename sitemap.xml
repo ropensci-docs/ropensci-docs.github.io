@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://docs.ropensci.org/antanym/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/antiword/</loc>
   </url>
   <url>
@@ -1055,9 +1052,6 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/treebase/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/treeio/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/treestartr/</loc>
