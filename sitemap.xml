@@ -13,6 +13,9 @@
     <loc>https://docs.ropensci.org/arkdb/</loc>
   </url>
   <url>
+    <loc>https://docs.ropensci.org/arresteddev/</loc>
+  </url>
+  <url>
     <loc>https://docs.ropensci.org/aRxiv/</loc>
   </url>
   <url>
@@ -25,6 +28,9 @@
     <loc>https://docs.ropensci.org/auk/</loc>
   </url>
   <url>
+    <loc>https://docs.ropensci.org/av/</loc>
+  </url>
+  <url>
     <loc>https://docs.ropensci.org/babette/</loc>
   </url>
   <url>
@@ -35,6 +41,12 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/bib2df/</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/bikedata/</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/bindertools/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/binman/</loc>
@@ -67,6 +79,9 @@
     <loc>https://docs.ropensci.org/ccafs/</loc>
   </url>
   <url>
+    <loc>https://docs.ropensci.org/cchecks/</loc>
+  </url>
+  <url>
     <loc>https://docs.ropensci.org/cde/</loc>
   </url>
   <url>
@@ -76,10 +91,16 @@
     <loc>https://docs.ropensci.org/charlatan/</loc>
   </url>
   <url>
+    <loc>https://docs.ropensci.org/checkers/</loc>
+  </url>
+  <url>
     <loc>https://docs.ropensci.org/chlorpromazineR/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/chromer/</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/circle/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/citecorp/</loc>
@@ -100,10 +121,16 @@
     <loc>https://docs.ropensci.org/clifro/</loc>
   </url>
   <url>
+    <loc>https://docs.ropensci.org/clock/</loc>
+  </url>
+  <url>
     <loc>https://docs.ropensci.org/codemetar/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/colocr/</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/colorpiler/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/colpluz/</loc>
@@ -781,6 +808,9 @@
     <loc>https://docs.ropensci.org/rWBclimate/</loc>
   </url>
   <url>
+    <loc>https://docs.ropensci.org/rwdpa/</loc>
+  </url>
+  <url>
     <loc>https://docs.ropensci.org/rzmq/</loc>
   </url>
   <url>
@@ -877,6 +907,9 @@
     <loc>https://docs.ropensci.org/tesseract/</loc>
   </url>
   <url>
+    <loc>https://docs.ropensci.org/testevil/</loc>
+  </url>
+  <url>
     <loc>https://docs.ropensci.org/textreuse/</loc>
   </url>
   <url>
@@ -926,6 +959,9 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/treebase/</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/treeio/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/treestartr/</loc>
