@@ -454,9 +454,6 @@
     <loc>https://docs.ropensci.org/lingtypology/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/lq/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/magick/</loc>
   </url>
   <url>
@@ -983,9 +980,6 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/taxadb/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/taxadc/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/taxize/</loc>
