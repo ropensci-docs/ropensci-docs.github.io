@@ -178,9 +178,6 @@
     <loc>https://docs.ropensci.org/crul/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/curl/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/cyphr/</loc>
   </url>
   <url>
@@ -422,9 +419,6 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/jsonld/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/jsonlite/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/jsonvalidate/</loc>
