@@ -634,10 +634,19 @@
     <loc>https://docs.ropensci.org/tracerer/</loc>
   </url>
   <url>
+    <loc>https://docs.ropensci.org/trackmd/</loc>
+  </url>
+  <url>
     <loc>https://docs.ropensci.org/tradestatistics/</loc>
   </url>
   <url>
+    <loc>https://docs.ropensci.org/tRainspotting/</loc>
+  </url>
+  <url>
     <loc>https://docs.ropensci.org/traits/</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/travis/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/treebase/</loc>
@@ -683,6 +692,9 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/webchem/</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/webmiddens/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/webmockr/</loc>
