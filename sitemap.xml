@@ -1,340 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://docs.ropensci.org/addressable/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/antanym/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/antiword/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/AntWeb/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/apipkgen/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/arkdb/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/arresteddev/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/aRxiv/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/aspacer/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/assertr/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/astr/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/auk/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/av/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/babette/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/baRcodeR/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/beastier/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/beautier/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/bib2df/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/bikedata/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/bindertools/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/binman/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/biomartr/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/bittrex/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/blogyaml/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/bold/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/bomrang/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/bowerbird/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/brranching/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/c14bazAAR/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/camsRad/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/canpaginate/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/ccafs/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/cchecks/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/cde/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/changes/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/charlatan/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/checkers/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/chlorpromazineR/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/chromer/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/circle/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/citecorp/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/citesdb/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/ckanr/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/cld2/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/cld3/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/cleanEHR/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/clifro/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/clock/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/codemetar/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/colocr/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/colorpiler/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/colpluz/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/comtradr/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/conditionz/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/convertr/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/credentials/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/cRegulome/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/cricketdata/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/crminer/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/crul/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/cyphr/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/dappr/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/datapack/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/DataPackageR/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/datapkg/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/datasauce/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/DataSpaceR/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/dataspice/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/datastorr/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/dbhydroR/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/dbparser/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/decapitated/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/defender/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/dirdf/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/dissemr/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/DoOR.data/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/DoOR.functions/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/drake/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/ecoengine/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/eechidna/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/eia/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/elastic/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/elasticdsl/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/EML/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/emld/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/EndoMineR/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/epubr/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/essurvey/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/europepmc/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/ezknitr/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/fauxpas/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/FedData/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/feetures/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/finch/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/fingertipsR/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/ftp/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/fulltext/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/gender/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/gendercodeR/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/genderdata/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/geoaxe/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/geojson/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/geojsonio/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/geojsonlint/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/geojsonrewind/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/geonames/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/geoops/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/gert/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/getCRUCLdata/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/getlandsat/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/ghql/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/ghrecipes/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/gistr/</loc>
@@ -385,9 +55,6 @@
     <loc>https://docs.ropensci.org/hoardr/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/hoasts/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/hunspell/</loc>
   </url>
   <url>
@@ -415,9 +82,6 @@
     <loc>https://docs.ropensci.org/jenkins/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/jobstatus/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/jqr/</loc>
   </url>
   <url>
@@ -430,13 +94,7 @@
     <loc>https://docs.ropensci.org/jstor/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/keybase/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/landscapetools/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/laselva/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/lawn/</loc>
@@ -461,9 +119,6 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/microdemic/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/middlechild/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/MODISTools/</loc>
@@ -508,16 +163,7 @@
     <loc>https://docs.ropensci.org/nomisr/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/notary/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/oai/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/oauthlib/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/ochRe/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/onekp/</loc>
@@ -562,15 +208,6 @@
     <loc>https://docs.ropensci.org/outsider.devtools/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/ozbabynames/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/ozflights/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/packagemetrics/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/paleobioDB/</loc>
   </url>
   <url>
@@ -598,25 +235,13 @@
     <loc>https://docs.ropensci.org/phylotaR/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/phyrmeta/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/piggyback/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/pkginspector/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/pkgreviewr/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/plater/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/pleiades/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/ponyexpress/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/popler/</loc>
@@ -629,9 +254,6 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/pubchunks/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/qcoder/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/qpdf/</loc>
@@ -665,9 +287,6 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/rcites/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/rcitoid/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/Rclean/</loc>
@@ -727,9 +346,6 @@
     <loc>https://docs.ropensci.org/reuropeana/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/reviewer/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/rfigshare/</loc>
   </url>
   <url>
@@ -745,9 +361,6 @@
     <loc>https://docs.ropensci.org/rfna/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/rftdoi/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/rgbif/</loc>
   </url>
   <url>
@@ -757,9 +370,6 @@
     <loc>https://docs.ropensci.org/rgpdd/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/ridb/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/riem/</loc>
   </url>
   <url>
@@ -767,9 +377,6 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/rinat/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/riodata/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/ritis/</loc>
@@ -805,22 +412,13 @@
     <loc>https://docs.ropensci.org/roadoi/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/roblog/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/robotstxt/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/rodev/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/roomba/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/ropenaq/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/ropsec/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/rorcid/</loc>
@@ -847,9 +445,6 @@
     <loc>https://docs.ropensci.org/rredlist/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/rresync/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/rrlite/</loc>
   </url>
   <url>
@@ -866,9 +461,6 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/rsnps/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/rthings/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/rtika/</loc>
@@ -889,25 +481,13 @@
     <loc>https://docs.ropensci.org/rWBclimate/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/rwdpa/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/rzmq/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/scientist/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/scitations/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/scrubr/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/seasl/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/simpletextr/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/skimr/</loc>
@@ -919,16 +499,10 @@
     <loc>https://docs.ropensci.org/smapr/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/snowball/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/sofa/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/solrium/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/sparqldsl/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/spatsoc/</loc>
@@ -937,19 +511,7 @@
     <loc>https://docs.ropensci.org/spelling/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/spenv/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/splister/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/spocc/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/spplist/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/spplit/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/ssh/</loc>
@@ -985,22 +547,10 @@
     <loc>https://docs.ropensci.org/taxizedb/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/taxspell/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/taxview/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/tecks/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/tesseract/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/testevil/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/testrmd/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/textreuse/</loc>
@@ -1024,55 +574,28 @@
     <loc>https://docs.ropensci.org/tiler/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/timefuzz/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/tinkr/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/tl/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/tokenizers/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/tracerer/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/trackmd/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/tradestatistics/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/tRainspotting/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/traits/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/travis/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/treebase/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/treeio/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/treestartr/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/trufflesniffer/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/UCSCXenaTools/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/unrtf/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/urltemplate/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/USAboundaries/</loc>
@@ -1102,9 +625,6 @@
     <loc>https://docs.ropensci.org/webchem/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/webmiddens/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/webmockr/</loc>
   </url>
   <url>
@@ -1130,8 +650,5 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/zbank/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/zissou/</loc>
   </url>
 </urlset>
