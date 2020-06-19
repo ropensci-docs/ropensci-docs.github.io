@@ -562,7 +562,13 @@
     <loc>https://docs.ropensci.org/spelling/</loc>
   </url>
   <url>
+    <loc>https://docs.ropensci.org/splister/</loc>
+  </url>
+  <url>
     <loc>https://docs.ropensci.org/spocc/</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/spplist/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/spplit/</loc>
@@ -601,10 +607,19 @@
     <loc>https://docs.ropensci.org/taxizedb/</loc>
   </url>
   <url>
+    <loc>https://docs.ropensci.org/taxspell/</loc>
+  </url>
+  <url>
     <loc>https://docs.ropensci.org/taxview/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/tesseract/</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/testevil/</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/testrmd/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/textreuse/</loc>
@@ -626,6 +641,12 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/tiler/</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/tinkr/</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/tl/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/tokenizers/</loc>
