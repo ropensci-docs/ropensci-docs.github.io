@@ -160,9 +160,6 @@
     <loc>https://docs.ropensci.org/convertr/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/cranchecksdocs/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/credentials/</loc>
   </url>
   <url>
@@ -851,9 +848,6 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/rsnps/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/rthings/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/rtika/</loc>
