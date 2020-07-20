@@ -304,9 +304,6 @@
     <loc>https://docs.ropensci.org/geojsonlint/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/geojsonrewind/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/geonames/</loc>
   </url>
   <url>
@@ -574,9 +571,6 @@
     <loc>https://docs.ropensci.org/pdftools/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/pegax/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/photosearcher/</loc>
   </url>
   <url>
@@ -707,9 +701,6 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/restez/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/reuropeana/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/reviewer/</loc>
