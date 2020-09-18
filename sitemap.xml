@@ -844,9 +844,6 @@
     <loc>https://docs.ropensci.org/rzmq/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/scientist/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/scrubr/</loc>
   </url>
   <url>
@@ -883,19 +880,7 @@
     <loc>https://docs.ropensci.org/spelling/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/spenv/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/splister/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/spocc/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/spplist/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/spplit/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/ssh/</loc>
@@ -929,9 +914,6 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/taxizedb/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/taxspell/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/taxview/</loc>
