@@ -151,9 +151,6 @@
     <loc>https://docs.ropensci.org/colorpiler/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/colpluz/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/comtradr/</loc>
   </url>
   <url>
@@ -656,6 +653,9 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/Rclean/</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/rcol/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/rcoreoa/</loc>
