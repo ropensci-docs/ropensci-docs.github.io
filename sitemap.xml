@@ -730,9 +730,6 @@
     <loc>https://docs.ropensci.org/rgpdd/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/ridb/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/riem/</loc>
   </url>
   <url>
@@ -875,9 +872,6 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/solrium/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/sparqldsl/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/spatsoc/</loc>
