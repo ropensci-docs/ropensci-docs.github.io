@@ -190,9 +190,6 @@
     <loc>https://docs.ropensci.org/DataPackageR/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/datapkg/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/datasauce/</loc>
   </url>
   <url>
@@ -860,9 +857,6 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/seasl/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/simpletextr/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/skimr/</loc>
