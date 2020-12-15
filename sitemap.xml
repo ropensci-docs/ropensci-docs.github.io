@@ -145,9 +145,6 @@
     <loc>https://docs.ropensci.org/colocr/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/colorpiler/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/comtradr/</loc>
   </url>
   <url>
@@ -533,9 +530,6 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/ozflights/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/packagemetrics/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/packgraph/</loc>
