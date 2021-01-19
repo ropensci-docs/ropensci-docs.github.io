@@ -133,9 +133,6 @@
     <loc>https://docs.ropensci.org/clifro/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/clock/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/codemetar/</loc>
   </url>
   <url>
@@ -530,6 +527,9 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/pdftools/</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/pendulum/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/phonfieldwork/</loc>
