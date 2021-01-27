@@ -487,6 +487,9 @@
     <loc>https://docs.ropensci.org/osmdata/</loc>
   </url>
   <url>
+    <loc>https://docs.ropensci.org/osmextract/</loc>
+  </url>
+  <url>
     <loc>https://docs.ropensci.org/osmplotr/</loc>
   </url>
   <url>
@@ -548,6 +551,9 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/piggyback/</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/pixelclasser/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/pkginspector/</loc>
