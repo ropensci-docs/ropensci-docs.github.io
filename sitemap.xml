@@ -160,9 +160,6 @@
     <loc>https://docs.ropensci.org/cRegulome/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/cricketdata/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/crul/</loc>
   </url>
   <url>
@@ -197,9 +194,6 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/decapitated/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/defender/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/dirdf/</loc>
@@ -364,9 +358,6 @@
     <loc>https://docs.ropensci.org/jenkins/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/jobstatus/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/jqr/</loc>
   </url>
   <url>
@@ -460,9 +451,6 @@
     <loc>https://docs.ropensci.org/oai/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/ochRe/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/onekp/</loc>
   </url>
   <url>
@@ -503,9 +491,6 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/outsider.devtools/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/ozbabynames/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/ozflights/</loc>
@@ -566,9 +551,6 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/plotly/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/ponyexpress/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/popler/</loc>
@@ -670,9 +652,6 @@
     <loc>https://docs.ropensci.org/restez/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/reviewer/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/rfigshare/</loc>
   </url>
   <url>
@@ -740,9 +719,6 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/ropenaq/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/ropsec/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/rorcid/</loc>
@@ -823,9 +799,6 @@
     <loc>https://docs.ropensci.org/smapr/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/snowball/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/sofa/</loc>
   </url>
   <url>
@@ -896,12 +869,6 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/tesseract/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/testevil/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/testrmd/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/textreuse/</loc>
