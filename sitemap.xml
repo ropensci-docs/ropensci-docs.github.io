@@ -493,9 +493,6 @@
     <loc>https://docs.ropensci.org/outsider.devtools/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/packgraph/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/paleobioDB/</loc>
   </url>
   <url>
@@ -542,6 +539,9 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/pkgreport/</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/pkgstats/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/plater/</loc>
