@@ -538,10 +538,10 @@
     <loc>https://docs.ropensci.org/pixelclasser/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/pkginspector/</loc>
+    <loc>https://docs.ropensci.org/pkgcheck/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/pkgreport/</loc>
+    <loc>https://docs.ropensci.org/pkginspector/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/pkgstats/</loc>
