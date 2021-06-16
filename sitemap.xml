@@ -28,6 +28,9 @@
     <loc>https://docs.ropensci.org/auk/</loc>
   </url>
   <url>
+    <loc>https://docs.ropensci.org/autotest/</loc>
+  </url>
+  <url>
     <loc>https://docs.ropensci.org/av/</loc>
   </url>
   <url>
@@ -508,6 +511,9 @@
     <loc>https://docs.ropensci.org/pixelclasser/</loc>
   </url>
   <url>
+    <loc>https://docs.ropensci.org/pkgcheck/</loc>
+  </url>
+  <url>
     <loc>https://docs.ropensci.org/pkgreviewr/</loc>
   </url>
   <url>
@@ -691,6 +697,9 @@
     <loc>https://docs.ropensci.org/rorcid/</loc>
   </url>
   <url>
+    <loc>https://docs.ropensci.org/roreviewapi/</loc>
+  </url>
+  <url>
     <loc>https://docs.ropensci.org/rotl/</loc>
   </url>
   <url>
@@ -779,6 +788,9 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/spocc/</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/srr/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/ssh/</loc>
