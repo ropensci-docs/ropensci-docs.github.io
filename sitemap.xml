@@ -7,6 +7,9 @@
     <loc>https://docs.ropensci.org/allcontributors/</loc>
   </url>
   <url>
+    <loc>https://docs.ropensci.org/allodb/</loc>
+  </url>
+  <url>
     <loc>https://docs.ropensci.org/antanym/</loc>
   </url>
   <url>
@@ -527,9 +530,6 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/plater/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/plotly/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/popler/</loc>
