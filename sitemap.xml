@@ -88,9 +88,6 @@
     <loc>https://docs.ropensci.org/camsRad/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/cchecks/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/cde/</loc>
   </url>
   <url>
@@ -146,9 +143,6 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/comtradr/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/conditionz/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/CoordinateCleaner/</loc>
@@ -247,13 +241,7 @@
     <loc>https://docs.ropensci.org/ezknitr/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/fauxpas/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/FedData/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/finch/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/fingertipsR/</loc>
