@@ -520,9 +520,6 @@
     <loc>https://docs.ropensci.org/prism/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/pubchunks/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/qcoder/</loc>
   </url>
   <url>
@@ -541,28 +538,10 @@
     <loc>https://docs.ropensci.org/ramlegacy/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/randgeo/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/rbace/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/rbhl/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/rcites/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/rcitoid/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/Rclean/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/rcol/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/rcoreoa/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/rcrossref/</loc>
@@ -671,9 +650,6 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/robotstxt/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/rorcid/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/roreviewapi/</loc>
@@ -962,8 +938,5 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/yfR/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/zbank/</loc>
   </url>
 </urlset>
