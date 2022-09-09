@@ -250,9 +250,6 @@
     <loc>https://docs.ropensci.org/frictionless/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/fulltext/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/gbifdb/</loc>
   </url>
   <url>
@@ -262,13 +259,7 @@
     <loc>https://docs.ropensci.org/gendercoder/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/geojson/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/geojsonio/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/geojsonlint/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/geonames/</loc>
@@ -278,9 +269,6 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/getCRUCLdata/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/getlandsat/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/ghql/</loc>
@@ -329,9 +317,6 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/historydata/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/hoardr/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/hunspell/</loc>
@@ -388,9 +373,6 @@
     <loc>https://docs.ropensci.org/magick/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/mapr/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/mapscanner/</loc>
   </url>
   <url>
@@ -421,13 +403,7 @@
     <loc>https://docs.ropensci.org/MtreeRing/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/namext/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/nasapower/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/natserv/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/nbaR/</loc>
@@ -476,9 +452,6 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/osmplotr/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/ots/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/outcomerate/</loc>
