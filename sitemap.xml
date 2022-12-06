@@ -544,9 +544,6 @@
     <loc>https://docs.ropensci.org/rcites/</loc>
   </url>
   <url>
-    <loc>https://docs.ropensci.org/Rclean/</loc>
-  </url>
-  <url>
     <loc>https://docs.ropensci.org/rcrossref/</loc>
   </url>
   <url>
@@ -608,9 +605,6 @@
   </url>
   <url>
     <loc>https://docs.ropensci.org/rglobi/</loc>
-  </url>
-  <url>
-    <loc>https://docs.ropensci.org/rgnparser/</loc>
   </url>
   <url>
     <loc>https://docs.ropensci.org/rgpdd/</loc>
