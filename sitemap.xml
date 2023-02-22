@@ -37,6 +37,9 @@
     <loc>https://docs.ropensci.org/awardFindR/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/babeldown/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/babette/sitemap.xml</loc>
   </sitemap>
   <sitemap>
