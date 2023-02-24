@@ -436,6 +436,9 @@
     <loc>https://docs.ropensci.org/onekp/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/openalexR/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/opencage/sitemap.xml</loc>
   </sitemap>
   <sitemap>
