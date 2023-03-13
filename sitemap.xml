@@ -262,6 +262,9 @@
     <loc>https://docs.ropensci.org/gendercoder/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/geojson/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/geojsonio/sitemap.xml</loc>
   </sitemap>
   <sitemap>
