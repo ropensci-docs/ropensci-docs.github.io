@@ -145,6 +145,9 @@
     <loc>https://docs.ropensci.org/comtradr/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/concstats/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/CoordinateCleaner/sitemap.xml</loc>
   </sitemap>
   <sitemap>
