@@ -550,6 +550,9 @@
     <loc>https://docs.ropensci.org/qualtRics/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/quartificate/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/r2readthedocs/sitemap.xml</loc>
   </sitemap>
   <sitemap>
