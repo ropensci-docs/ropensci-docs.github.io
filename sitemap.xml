@@ -751,6 +751,9 @@
     <loc>https://docs.ropensci.org/sodium/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/sofa/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/spatsoc/sitemap.xml</loc>
   </sitemap>
   <sitemap>
