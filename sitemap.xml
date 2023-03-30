@@ -532,6 +532,9 @@
     <loc>https://docs.ropensci.org/postdoc/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/predictNMB/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/prism/sitemap.xml</loc>
   </sitemap>
   <sitemap>
