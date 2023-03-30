@@ -922,9 +922,6 @@
     <loc>https://docs.ropensci.org/webmockr/sitemap.xml</loc>
   </sitemap>
   <sitemap>
-    <loc>https://docs.ropensci.org/wellknown/sitemap.xml</loc>
-  </sitemap>
-  <sitemap>
     <loc>https://docs.ropensci.org/wikitaxa/sitemap.xml</loc>
   </sitemap>
   <sitemap>
