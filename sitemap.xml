@@ -154,6 +154,9 @@
     <loc>https://docs.ropensci.org/credentials/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/CRediTas/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/cRegulome/sitemap.xml</loc>
   </sitemap>
   <sitemap>
