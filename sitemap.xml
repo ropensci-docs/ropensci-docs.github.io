@@ -208,6 +208,9 @@
     <loc>https://docs.ropensci.org/drake/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/dwctaxon/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/dynamite/sitemap.xml</loc>
   </sitemap>
   <sitemap>
