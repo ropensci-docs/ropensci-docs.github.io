@@ -235,6 +235,9 @@
     <loc>https://docs.ropensci.org/epair/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/eph/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/epubr/sitemap.xml</loc>
   </sitemap>
   <sitemap>
