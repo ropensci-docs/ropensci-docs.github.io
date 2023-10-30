@@ -256,6 +256,9 @@
     <loc>https://docs.ropensci.org/ezknitr/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/fastMatMR/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/FedData/sitemap.xml</loc>
   </sitemap>
   <sitemap>
