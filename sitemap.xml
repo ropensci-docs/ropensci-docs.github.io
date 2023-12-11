@@ -940,6 +940,9 @@
     <loc>https://docs.ropensci.org/wikitaxa/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/wmm/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/workloopR/sitemap.xml</loc>
   </sitemap>
   <sitemap>
