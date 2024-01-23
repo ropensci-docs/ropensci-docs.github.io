@@ -583,6 +583,9 @@
     <loc>https://docs.ropensci.org/ramlegacy/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/rangr/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/rb3/sitemap.xml</loc>
   </sitemap>
   <sitemap>
