@@ -751,6 +751,9 @@
     <loc>https://docs.ropensci.org/rusda/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/rvertnet/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/rWBclimate/sitemap.xml</loc>
   </sitemap>
   <sitemap>
