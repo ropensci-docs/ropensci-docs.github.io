@@ -940,6 +940,9 @@
     <loc>https://docs.ropensci.org/weathercan/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/weatherOz/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/webchem/sitemap.xml</loc>
   </sitemap>
   <sitemap>
