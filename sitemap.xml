@@ -265,6 +265,9 @@
     <loc>https://docs.ropensci.org/FedData/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/fellingdater/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/fingertipsR/sitemap.xml</loc>
   </sitemap>
   <sitemap>
