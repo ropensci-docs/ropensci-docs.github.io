@@ -325,6 +325,9 @@
     <loc>https://docs.ropensci.org/GLMMcosinor/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/goodpractice/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/googleLanguageR/sitemap.xml</loc>
   </sitemap>
   <sitemap>
