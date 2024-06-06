@@ -718,6 +718,9 @@
     <loc>https://docs.ropensci.org/robotstxt/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/rOPTRAM/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/roreviewapi/sitemap.xml</loc>
   </sitemap>
   <sitemap>
