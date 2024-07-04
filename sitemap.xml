@@ -496,6 +496,9 @@
     <loc>https://docs.ropensci.org/osfr/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/osmapiR/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/osmdata/sitemap.xml</loc>
   </sitemap>
   <sitemap>
