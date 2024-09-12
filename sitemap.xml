@@ -694,6 +694,9 @@
     <loc>https://docs.ropensci.org/ritis/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/rix/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/rmangal/sitemap.xml</loc>
   </sitemap>
   <sitemap>
