@@ -223,6 +223,9 @@
     <loc>https://docs.ropensci.org/EDIutils/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/eDNAjoint/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/eia/sitemap.xml</loc>
   </sitemap>
   <sitemap>
