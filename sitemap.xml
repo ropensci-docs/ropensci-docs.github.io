@@ -769,6 +769,9 @@
     <loc>https://docs.ropensci.org/RSelenium/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/rsi/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/rsnps/sitemap.xml</loc>
   </sitemap>
   <sitemap>
