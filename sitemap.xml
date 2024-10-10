@@ -559,6 +559,9 @@
     <loc>https://docs.ropensci.org/pkgcheck/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/pkgmatch/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/pkgreviewr/sitemap.xml</loc>
   </sitemap>
   <sitemap>
