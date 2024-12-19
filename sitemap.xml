@@ -643,9 +643,6 @@
     <loc>https://docs.ropensci.org/rdataretriever/sitemap.xml</loc>
   </sitemap>
   <sitemap>
-    <loc>https://docs.ropensci.org/rdefra/sitemap.xml</loc>
-  </sitemap>
-  <sitemap>
     <loc>https://docs.ropensci.org/rdflib/sitemap.xml</loc>
   </sitemap>
   <sitemap>
