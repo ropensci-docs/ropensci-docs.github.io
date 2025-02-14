@@ -154,6 +154,9 @@
     <loc>https://docs.ropensci.org/commonmark/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/commonmetar/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/comtradr/sitemap.xml</loc>
   </sitemap>
   <sitemap>
