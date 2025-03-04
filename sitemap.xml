@@ -433,6 +433,9 @@
     <loc>https://docs.ropensci.org/magick/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/mapmetadata/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/mapscanner/sitemap.xml</loc>
   </sitemap>
   <sitemap>
