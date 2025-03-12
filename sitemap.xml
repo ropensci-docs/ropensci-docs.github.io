@@ -313,6 +313,9 @@
     <loc>https://docs.ropensci.org/geonames/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/geotargets/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/gert/sitemap.xml</loc>
   </sitemap>
   <sitemap>
