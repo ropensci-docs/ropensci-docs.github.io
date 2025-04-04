@@ -982,6 +982,9 @@
     <loc>https://docs.ropensci.org/universe/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/unrtf/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/USAboundaries/sitemap.xml</loc>
   </sitemap>
   <sitemap>
