@@ -367,6 +367,9 @@
     <loc>https://docs.ropensci.org/GSODR/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/gtexr/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/gutenbergr/sitemap.xml</loc>
   </sitemap>
   <sitemap>
