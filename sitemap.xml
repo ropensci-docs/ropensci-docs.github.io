@@ -631,6 +631,9 @@
     <loc>https://docs.ropensci.org/prismjs/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/promoutils/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/qcoder/sitemap.xml</loc>
   </sitemap>
   <sitemap>
