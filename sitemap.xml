@@ -574,6 +574,9 @@
     <loc>https://docs.ropensci.org/pdftools/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/PFW/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/phonfieldwork/sitemap.xml</loc>
   </sitemap>
   <sitemap>
