@@ -982,6 +982,9 @@
     <loc>https://docs.ropensci.org/treestartr/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/trud/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/tsbox/sitemap.xml</loc>
   </sitemap>
   <sitemap>
