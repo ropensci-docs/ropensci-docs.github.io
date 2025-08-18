@@ -847,6 +847,9 @@
     <loc>https://docs.ropensci.org/saperlipopette/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/sasquatch/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/skimr/sitemap.xml</loc>
   </sitemap>
   <sitemap>
