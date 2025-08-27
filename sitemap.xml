@@ -199,6 +199,9 @@
     <loc>https://docs.ropensci.org/DataPackageR/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/dataset/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/DataSpaceR/sitemap.xml</loc>
   </sitemap>
   <sitemap>
