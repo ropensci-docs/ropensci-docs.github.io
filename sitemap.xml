@@ -340,9 +340,6 @@
     <loc>https://docs.ropensci.org/gigs/sitemap.xml</loc>
   </sitemap>
   <sitemap>
-    <loc>https://docs.ropensci.org/gistr/sitemap.xml</loc>
-  </sitemap>
-  <sitemap>
     <loc>https://docs.ropensci.org/git2r/sitemap.xml</loc>
   </sitemap>
   <sitemap>
@@ -365,6 +362,9 @@
   </sitemap>
   <sitemap>
     <loc>https://docs.ropensci.org/googleLanguageR/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://docs.ropensci.org/gpg/sitemap.xml</loc>
   </sitemap>
   <sitemap>
     <loc>https://docs.ropensci.org/grainchanger/sitemap.xml</loc>
