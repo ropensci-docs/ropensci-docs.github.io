@@ -853,6 +853,9 @@
     <loc>https://docs.ropensci.org/sasquatch/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/sits/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/skimr/sitemap.xml</loc>
   </sitemap>
   <sitemap>
