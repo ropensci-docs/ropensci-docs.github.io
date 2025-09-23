@@ -895,6 +895,9 @@
     <loc>https://docs.ropensci.org/srr/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/ssarp/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/ssh/sitemap.xml</loc>
   </sitemap>
   <sitemap>
