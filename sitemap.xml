@@ -220,6 +220,9 @@
     <loc>https://docs.ropensci.org/deposits/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/distionary/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/dittodb/sitemap.xml</loc>
   </sitemap>
   <sitemap>
