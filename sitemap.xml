@@ -700,6 +700,9 @@
     <loc>https://docs.ropensci.org/rdryad/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/read.abares/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/readODS/sitemap.xml</loc>
   </sitemap>
   <sitemap>
