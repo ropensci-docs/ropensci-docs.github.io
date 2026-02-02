@@ -178,9 +178,6 @@
     <loc>https://docs.ropensci.org/CRediTas/sitemap.xml</loc>
   </sitemap>
   <sitemap>
-    <loc>https://docs.ropensci.org/cRegulome/sitemap.xml</loc>
-  </sitemap>
-  <sitemap>
     <loc>https://docs.ropensci.org/crul/sitemap.xml</loc>
   </sitemap>
   <sitemap>
@@ -665,9 +662,6 @@
   </sitemap>
   <sitemap>
     <loc>https://docs.ropensci.org/quartificate/sitemap.xml</loc>
-  </sitemap>
-  <sitemap>
-    <loc>https://docs.ropensci.org/r2readthedocs/sitemap.xml</loc>
   </sitemap>
   <sitemap>
     <loc>https://docs.ropensci.org/ramlegacy/sitemap.xml</loc>
