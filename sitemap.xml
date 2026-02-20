@@ -31,6 +31,9 @@
     <loc>https://docs.ropensci.org/assertr/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/Athlytics/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/auk/sitemap.xml</loc>
   </sitemap>
   <sitemap>
