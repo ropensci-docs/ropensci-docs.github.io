@@ -727,6 +727,9 @@
     <loc>https://docs.ropensci.org/restez/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/reviser/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/rfema/sitemap.xml</loc>
   </sitemap>
   <sitemap>
