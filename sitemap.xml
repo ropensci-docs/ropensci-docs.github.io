@@ -274,6 +274,9 @@
     <loc>https://docs.ropensci.org/epubr/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/ernest/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/essurvey/sitemap.xml</loc>
   </sitemap>
   <sitemap>
