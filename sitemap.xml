@@ -523,6 +523,9 @@
     <loc>https://docs.ropensci.org/nuts/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/nycOpenData/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/oai/sitemap.xml</loc>
   </sitemap>
   <sitemap>
