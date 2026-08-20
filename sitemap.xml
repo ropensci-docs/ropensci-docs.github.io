@@ -445,6 +445,9 @@
     <loc>https://docs.ropensci.org/katex/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/lakefetch/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/landscapetools/sitemap.xml</loc>
   </sitemap>
   <sitemap>
