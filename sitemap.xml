@@ -91,6 +91,9 @@
     <loc>https://docs.ropensci.org/bowerbird/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/brapiR2/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/brranching/sitemap.xml</loc>
   </sitemap>
   <sitemap>
