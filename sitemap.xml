@@ -382,9 +382,6 @@
     <loc>https://docs.ropensci.org/gpg/sitemap.xml</loc>
   </sitemap>
   <sitemap>
-    <loc>https://docs.ropensci.org/grainchanger/sitemap.xml</loc>
-  </sitemap>
-  <sitemap>
     <loc>https://docs.ropensci.org/graphql/sitemap.xml</loc>
   </sitemap>
   <sitemap>
