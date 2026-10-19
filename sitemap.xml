@@ -160,6 +160,9 @@
     <loc>https://docs.ropensci.org/coder/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/coevolve/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/colocr/sitemap.xml</loc>
   </sitemap>
   <sitemap>
