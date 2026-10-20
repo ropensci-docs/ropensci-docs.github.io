@@ -703,6 +703,9 @@
     <loc>https://docs.ropensci.org/rcites/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/rcrisp/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/rcrossref/sitemap.xml</loc>
   </sitemap>
   <sitemap>
