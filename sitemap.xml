@@ -517,6 +517,9 @@
     <loc>https://docs.ropensci.org/neotoma/sitemap.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://docs.ropensci.org/nert/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://docs.ropensci.org/NLMR/sitemap.xml</loc>
   </sitemap>
   <sitemap>
